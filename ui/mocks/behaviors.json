@@ -1,0 +1,6 @@
+[
+    {
+        "id": "standard",
+        "fixtures": ["get-files", "get-files-images"]
+    }
+]
